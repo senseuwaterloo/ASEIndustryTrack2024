@@ -1,5 +1,5 @@
 # ASEIndustryTrack2024
-Data for ASE 2024 Industry Showcase. Recorded videos are [here](https://drive.google.com/drive/folders/10dQX_hxUo3q16h89INJAq991lNtqROTh?usp=sharing).
+Data for ASE 2024 Industry Showcase. Recorded videos and extracted data are [here](https://drive.google.com/drive/folders/10dQX_hxUo3q16h89INJAq991lNtqROTh?usp=sharing).
 
 ## Test passing rate and execution time.
 <img width="1056" alt="PassingRate" src="https://github.com/senseuwaterloo/ASEIndustryTrack2024/assets/46293402/9ac4b907-3d5a-46bc-90ab-b22356f1a2fc">
